@@ -1,8 +1,11 @@
-# RW Digital Solutions
+<p align="center">
+  <img src="rw-logo.png" alt="RW Digital Solutions logo" width="160">
+</p>
 
-**Building digital products for Rwanda and Africa — from Kigali.**
+<h1 align="center">RW Digital Solutions</h1>
 
-🌐 [rwdigitalsolutions.com](https://rwdigitalsolutions.com)
+<p align="center"><b>Building digital products for Rwanda and Africa — from Kigali.</b><br>
+🌐 <a href="https://rwdigitalsolutions.com">rwdigitalsolutions.com</a></p>
 
 ## What we build
 - Websites and web platforms
